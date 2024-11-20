@@ -1,0 +1,11 @@
+Name of Quantlet: 'DEDA Course - Group 3 Homework: Capturing the Baijiu(白酒) Industry Landscape'
+
+Published in: 'DEDA Course - Group 3 Homework: Capturing the Baijiu(白酒) Industry Landscape'
+
+Description: 'This repository contains the Python code developed for our group project in the DEDA course.  The project focuses on analyzing the stock prices of Baijiu industry public firms, incorporating various data analysis and machine learning techniques.'
+
+Keywords: 'LDA, text analysis, word cloud, time-series prediction, UMAP, MST'
+
+Author: 'Jialu Gao, Nuo Chen, Yunru Si, Zhuochu Chen'
+
+Submitted: '17 November 2024'
